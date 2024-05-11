@@ -15,7 +15,7 @@ aggiungere event listener al pulsante "=": quando si clicca su =, salvare il sec
 
 
 MILESTONE 4
-pulsante canc: cliccando il pulsante si resetta il calcolo:stella2:
+pulsante canc: cliccando il pulsante si resetta il calcolo
 
 
 BONUS

@@ -24,34 +24,36 @@
             <img src="assets/img/Boosio-logo.png" alt="Boosio" />
           </div>
         </header>
-        <div id="result">0</div>
+        <div id="result"></div>
         <div class="buttons">
           <div class="row numbers">
-            <button>7</button>
-            <button>8</button>
-            <button>9</button>
+            <button class="number-button">7</button>
+            <button class="number-button">8</button>
+            <button class="number-button">9</button>
 
-            <button>4</button>
-            <button>5</button>
-            <button>6</button>
+            <button class="number-button">4</button>
+            <button class="number-button">5</button>
+            <button class="number-button">6</button>
 
-            <button>1</button>
-            <button>2</button>
-            <button>3</button>
+            <button class="number-button">1</button>
+            <button class="number-button">2</button>
+            <button class="number-button">3</button>
 
-            <button class="large">0</button>
+            <button class="large number-button">0</button>
             <button class="orange">=</button>
           </div>
 
           <div class="row operators">
             <button class="orange">C</button>
-            <button>+</button>
-            <button>-</button>
-            <button>&#215;</button>
-            <button>&#247;</button>
+            <button data-operator="+" class="operator somma">+</button>
+            <button data-operator="-" class="operator sottrazione">-</button>
+            <button data-operator="*" class="operator moltiplicazione">&#215;</button>
+            <button data-operator="/" class="operator divisione">&#247;</button>
+            
           </div>
         </div>
       </div>
     </main>
+    <script type="text/javascript" src="/calculator/main.js"></script>
   </body>
 </html>
