@@ -11,7 +11,7 @@ aggiungere event listener a tutti gli operatori: quando si clicca su un operator
 
 
 MILESTONE 3
-aggiungere event listener al pulsante "=": quando si clicca su =, salvare il secondo operando, effetuare il calcolo corretto in base all'operatore selezionato e visualizzare il risultato in alto
+aggiungere event listener al pulsante "=": quando si clicca su =, salvare il secondo operando, effettuare il calcolo corretto in base all'operatore selezionato e visualizzare il risultato in alto
 
 
 MILESTONE 4
